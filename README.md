@@ -1,1 +1,1 @@
-# nodejs-app-deployment
+# nodejs-shop-app
